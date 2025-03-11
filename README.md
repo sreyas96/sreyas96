@@ -1,6 +1,6 @@
 # Hello World 👋, I'm Sreyas
 
-![Your Banner Image](your-image-url)
+![Your Banner Image](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTU2cnlrdGVtODJ6ZHdseHBkNWU1NW1zcWRzNWlid2ZrZHRnenFjNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CrFLL3CnRpw5ddlBMm/giphy.gif)
 
 ## 👨‍💻 About Me :
 - 🔥 Passionate about [your interests].
