@@ -1,4 +1,4 @@
-# Hello World 👋, I'm [Your Name]
+# Hello World 👋, I'm Sreyas
 
 ![Your Banner Image](your-image-url)
 
