@@ -1,58 +1,27 @@
-# Hello World 👋, I'm Sreyas
+# 💫 About Me:
+🛠 I'm currently working on<br>A responsive eCommerce application and other web development projects using React.js, Node.js, and MongoDB.<br><br>🤝 I'm looking to collaborate on<br>Open-source projects, UI/UX design improvements, and full-stack web applications.<br><br>🔍 I'm looking for help with<br>Advanced React.js patterns, state management with Redux, and optimizing performance in MERN applications.<br><br>🌱 I'm currently learning<br>ASP.NET Core, advanced React.js, and improving my UI/UX design skills with Figma and Adobe XD.<br><br>💬 Ask me about<br>Frontend development, React.js, UI/UX design, and creating scalable web applications.<br><br>⚡ Fun fact<br>I love creating intuitive and user-friendly interfaces, and I enjoy exploring new web technologies to stay ahead in development trends.
 
-![Your Banner Image](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTU2cnlrdGVtODJ6ZHdseHBkNWU1NW1zcWRzNWlid2ZrZHRnenFjNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CrFLL3CnRpw5ddlBMm/giphy.gif)
 
-## 👨‍💻 About Me :
-- 🔥 Passionate about [your interests].
-- 💻 Currently working on [your project].
-- 🌱 Learning [technologies or skills you are currently learning].
-- 🛡 Interested in [specific interests like AI, Cybersecurity, Web Development, etc.].
-- 🤝 Love contributing to Open Source and collaborating on exciting projects.
-- 🎯 Motto: "[Your Motto]"
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/asif_mujeeb__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/asifmujeeb) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:asifasifmujeeb10@gmail.com) 
 
----
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=asifmujeeb&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=asifmujeeb&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=asifmujeeb&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## ⚡ Technologies :
-### Programming Languages  
-![Your Tech](https://img.shields.io/badge/-Your_Tech-05122A?style=flat&logo=YourTech&logoColor=white)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=asifmujeeb&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### Frontend Development  
-![Your Tech](https://img.shields.io/badge/-Your_Tech-05122A?style=flat&logo=YourTech&logoColor=white)
+### ✍ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### Backend Development  
-![Your Tech](https://img.shields.io/badge/-Your_Tech-05122A?style=flat&logo=YourTech&logoColor=white)
-
-### Databases  
-![Your Tech](https://img.shields.io/badge/-Your_Tech-05122A?style=flat&logo=YourTech&logoColor=white)
-
-### DevOps & Security  
-![Your Tech](https://img.shields.io/badge/-Your_Tech-05122A?style=flat&logo=YourTech&logoColor=white)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=asifmujeeb&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=asifmujeeb&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 📊 My Stats :
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sreyas96&theme=dark)
-
-### 📈 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sreyas96&show_icons=true&theme=dark)
-
-### 💡 Most Used Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sreyas96&layout=compact&theme=dark)
-
----
-
-## 🔗 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin)](your-linkedin-url)
-[![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)](https://github.com/sreyas96)
-
-✉️ Happy Coding & Stay Secure! 🔥
-
----
-
-## 📌 Pinned Repositories:
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sreyas96&repo=your-repo-name&theme=dark)](https://github.com/your-github-username/your-repo-name)
-
----
-
-## 📆 Contribution Activity:
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=sreyas96&theme=react-dark)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
